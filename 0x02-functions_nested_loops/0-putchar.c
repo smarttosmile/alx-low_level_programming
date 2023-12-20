@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main -Entry point of my code ,
+ * main -Entry point of my code,
  * Return: Always 0
  */
 
@@ -17,6 +17,4 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
-
 }
-
