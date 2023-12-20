@@ -1,13 +1,13 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_alphabet - prints the english alphabet from a-z.
- * Return: Nothing.
+ * Return: void
  */
 void print_alphabet(void)
 {
-	char c;
+	char ch;
 
-	for (c = 'a'; c <= 'z'; c++)
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		_putchar(c);
 	}
