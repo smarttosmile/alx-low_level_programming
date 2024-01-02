@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * print_rev - Prints a string in reverse.
- * @s: string to be reserved.
+ * @s: string
+ * return: 0
  */
 void print_rev(char *s)
 {
